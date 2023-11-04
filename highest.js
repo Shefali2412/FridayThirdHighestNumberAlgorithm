@@ -5,7 +5,7 @@
 // steps:
 // 1. make a function thirdHighest & pass input 
 // 1a. inside function make & initialize three variables first, second, and third to 0
-// 1b. use for loop to iterate through an array to compare compare the current element in the array   
+// 1b. use for loop to iterate through an array to compare the current element in the array   
 // 1c. inside for use if/else 
 //          if the current element is greater than first, 
 //                then update third with the value of second, second with the value of first, and first with the current element.
